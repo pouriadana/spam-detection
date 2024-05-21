@@ -27,7 +27,7 @@ Run the compiled application and follow the on-screen prompts to input the messa
 Contributions to the Spam Detection System are welcome. Please ensure to update tests as appropriate.
 
 ## License
-Distributed under the GNU License. See LICENSE for more information.
+Distributed under the GPL 3.0 License. See LICENSE for more information.
 
 ## Contact
 Pouria Dana - pouriadana73@gmail.com Project Link: https://github.com/pouriadana/spam-detection-system
