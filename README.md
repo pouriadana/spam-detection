@@ -1,7 +1,7 @@
 # Spam Detection System
 
 ## Overview
-The Spam Detection System is a sophisticated C++ application designed to identify and filter spam messages. Utilizing a (ye to be comprehensive) list of spam keywords, the program meticulously scans messages of any length, including those with multiple paragraphs and newline characters, to ensure a spam-free communication environment.
+The Spam Detection System is a sophisticated C++ application designed to identify and filter spam messages. Utilizing a (yet to be comprehensive) list of spam keywords, the program meticulously scans messages of any length, including those with multiple paragraphs and newline characters.
 
 ## Features
 - **Dynamic Spam Word Detection**: Employs a text file (`SpamKeywords.txt`) containing a list of spam indicators, offering easy updates and customization.
